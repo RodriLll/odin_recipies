@@ -1,1 +1,1 @@
-# odin_recipies
+# Learning html - The Odin Project
